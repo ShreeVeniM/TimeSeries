@@ -1,4 +1,4 @@
-dsjgfiydgfshdvfPROJECT OVERVIEW
+fPROJECT OVERVIEW
 Introduction
 This project focuses on time series analysis and forecasting using various models, including ARIMA and XGBoost, applied to financial data. The analysis includes data loading, preprocessing, model training, evaluation, and visualization.
 
